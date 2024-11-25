@@ -1,5 +1,5 @@
-<h1 align="center" id="title">UniCode</h1> <p align="center">The Ultimate Learning Management System</p> <p id="description">This project is an open-source learning management system (LMS) built with Next.js, Prisma, and Clerk. It aims to provide a platform for free online courses specifically designed for students in Sub-Saharan Africa. The project is focused on using modern web development techniques to deliver a user-friendly and accessible learning experience.</p> <h2>🚀 Demo</h2>
-#pending...
+<h1 align="center" id="title">Tech Uplift</h1> <p align="center">The Ultimate Learning Management System</p> <p id="description">This project is an open-source learning management system (LMS) built with Next.js, Prisma, and Clerk. It aims to provide a platform for free online courses specifically designed for students in Sub-Saharan Africa. The project is focused on using modern web development techniques to deliver a user-friendly and accessible learning experience.</p> <h2>🚀 Demo</h2>
+https://tech-uplift-6f87.vercel.app/
 
 <h2>🧐 Features</h2>
 Here are some of the project's best features:
