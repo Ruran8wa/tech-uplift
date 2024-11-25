@@ -1,82 +1,70 @@
-<h1 align="center" id="title">UniCode</h1>
-<p align="center"> The Ulitimate Learning Management System</p>
+<h1 align="center" id="title">UniCode</h1> <p align="center">The Ultimate Learning Management System</p> <p id="description">This project is an open-source learning management system (LMS) built with Next.js, Prisma, and Clerk. It aims to provide a platform for free online courses specifically designed for students in Sub-Saharan Africa. The project is focused on using modern web development techniques to deliver a user-friendly and accessible learning experience.</p> <h2>🚀 Demo</h2>
+#pending...
 
-<p align="center"><img src="/screenshots/course_browse_page.png" alt="project-image"></p>
-
-<p id="description">This project is an open-source learning management system (LMS) built with Next.js Prisma and Clerk. It aims to provide a platform for free online courses specifically designed for students in Sub-Saharan Africa. The project is focused on using modern web development techniques to deliver a user-friendly and accessible learning experience.</p>
-
-<p align="center"><img src="https://img.shields.io/github/last-commit/glenmiracle18/lms" alt="shields"><img src="https://img.shields.io/github/commit-activity/m/glenmiracle18/lms" alt="shields"><img src="https://img.shields.io/cii/percentage/1" alt="shields"><img src="https://img.shields.io/github/languages/count/glenmiracle18/lms" alt="shields"><img src="https://img.shields.io/github/languages/top/glenmiracle18/lms" alt="shields"><img src="https://img.shields.io/npm/l/prisma" alt="shields"></p>
-
-<h2>🚀 Demo</h2>
-
-[#pending...](#pending...)
-
-<h2>Project Screenshots:</h2>
-
-<img src="/screenshots/dashboard.png" alt="project-screenshot" >
-
-<img src="/screenshots/course-page.png" alt="project-screenshot">
-
-<img src="/screenshots/course_setup.jpeg" alt="project-screenshot">
-
-  
-  
 <h2>🧐 Features</h2>
+Here are some of the project's best features:
 
-Here're some of the project's best features:
-
-*   Authentication
-*   Course Progress
-*   Fast Data fetching
-*   Communities
-*   Mentorship
-
+Authentication
+Course Progress Tracking
+Fast Data Fetching
+Communities
+Mentorship
 <h2>🛠️ Installation Steps:</h2>
+Star this repository:
+Show your support by starring the repository!
 
-<p>1. Star this repository</p>
+Clone the repository:
+Clone the project to your local machine using the command:
 
-<p>2. Clone the repo</p>
+bash
+Copy code
+git clone https://github.com/Ruran8wa/tech-uplift
+Set up the environment variables:
+Copy the example .env file and configure it:
 
-```
-git clone https://github.com/glenmiracle18/lms
-```
+bash
+Copy code
+cp .env.example .env  
+Open the .env file and fill in the required environment variables (e.g., database URL, authentication keys).
 
-<p>3. copy the dontenv file</p>
+Install dependencies:
+Navigate to the project directory and install all dependencies:
 
-```
-cp .env.example .env
-```
+bash
+Copy code
+npm install  
+Run database migrations:
+Set up the database schema using Prisma migrations:
 
-<p>4. run the project locally</p>
+bash
+Copy code
+npx prisma migrate dev  
+Start the development server:
+Run the project locally:
 
-```
-npm run dev
-```
+bash
+Copy code
+npm run dev  
+The application will be available at http://localhost:3000.
 
-  
-  
+Access the Admin Panel:
+Use the credentials provided during setup to log in as an admin and start managing courses and users.
+
 <h2>💻 Built with</h2>
-
 Technologies used in the project:
 
-*   Prisma
-*   Zod
-*   ShadcnUI
-*   Typescript
-*   React
-*   NextJs14
-*   SSR
-*   postgres-sql
-*   clerk-auth
-*   mux
-*   uploadthing
-*   docker
-*   aws
-
+Prisma
+Zod
+ShadcnUI
+TypeScript
+React
+Next.js 14
+Server-Side Rendering (SSR)
+PostgreSQL
+Clerk Authentication
+Mux
+UploadThing
+Docker
+AWS
 <h2>🛡️ License:</h2>
-
-This project is licensed under the MIT
-
-<h2>💖Like my work?</h2>
-
-Built by Glen. idea credit (antonio)<p>mailto: m.bonyu@alustudent.com</p>
+This project is licensed under the MIT License.
