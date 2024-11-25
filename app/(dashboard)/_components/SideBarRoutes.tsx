@@ -53,7 +53,7 @@ const SideBarRoutes = () => {
     const router = useRouter();
 
     // checking for teacher state
-    const isTeacherPage = pathname.includes('/teacher');
+    const isTeacherPage = pathname?.includes('/teacher');
 
     const routes = isTeacherPage ? teacherRoute : guestRoutes;
 

@@ -18,31 +18,12 @@ const Sidebar = () => {
         <Logo />
         <Link href="/">
           <h1 className="cursor-pointer text-xl font-bold text-emerald-600">
-            EDULEARN
+            TECH UPLIFT
           </h1>
         </Link>
       </div>
       <div className="flex w-full flex-col">
         <SideBarRoutes />
-      </div>
-
-      {/* pro card */}
-      <div className="m-2 mt-auto">
-        <Card>
-          <CardHeader>
-            <CardTitle className="mb-2 text-emerald-500">
-              Upgrade to Pro
-            </CardTitle>
-            <CardDescription>
-              Unlock all features and get unlimited access to our support team.
-            </CardDescription>
-          </CardHeader>
-          <CardContent>
-            <Button size="sm" className="w-full" variant="success">
-              Upgrade
-            </Button>
-          </CardContent>
-        </Card>
       </div>
     </div>
   );

@@ -17,7 +17,6 @@ export const NavbarRoutes = () => {
   const isCoursePage = pathname?.includes("/courses");
   const isSearchPage = pathname === "/search";
   const { userId } = useAuth();
-  console.log({ isTeacherPage, isCoursePage, userId, isTeacher: isTeacher(userId) });
 
 
   return (
