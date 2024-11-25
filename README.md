@@ -1,5 +1,5 @@
 <h1 align="center" id="title">UniCode</h1>
-<p align="center"> The Ulitimate Learning Management System, to purchase industry level tech courses</p>
+<p align="center"> The Ulitimate Learning Management System</p>
 
 <p align="center"><img src="/screenshots/course_browse_page.png" alt="project-image"></p>
 
