@@ -4,11 +4,11 @@ https://tech-uplift-6f87.vercel.app/
 <h2>🧐 Features</h2>
 Here are some of the project's best features:
 
-Authentication
-Course Progress Tracking
-Fast Data Fetching
-Communities
-Mentorship
+-Authentication
+-Course Progress Tracking
+-Fast Data Fetching
+-Communities
+-Mentorship
 <h2>🛠️ Installation Steps:</h2>
 Star this repository:
 Show your support by starring the repository!
